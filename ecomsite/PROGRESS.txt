@@ -1,0 +1,21 @@
+Make_an_E-commerce_Site_in_a_Weekend_Using_PHP Book
+Now on 
+page 116
+Understanding Different Payment Modes\
+
+Learning PHP, MySQL, JavaScript, and CSS BOOK
+Now on
+chapter one
+
+Targets
+29 january 2019
+-finish chapter 3
+
+30 january 2019
+-finish chapter 4
+
+31 january 2019
+-polish , github uploading and deployment
+
+1 feb 2019
+-start another book with a project, social network site
